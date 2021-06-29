@@ -10,7 +10,7 @@ Follow the live demo through https://jotai-pokemon.netlify.app
 Clone the project and install dependencies
 
 ```
-$ npm install
 $ cd jotai-pokemon
+$ yarn install
 $ yarn start
 ```
